@@ -1,4 +1,4 @@
-# SPINN
+# SFINN
 Stylized Facts Informed Neural Network
 
 
